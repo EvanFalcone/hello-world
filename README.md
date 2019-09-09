@@ -3,8 +3,8 @@
 Hey friends! Welcome to my Github intro blurb .md:
 
 My name is Evan Falcone, I am a junior developer with
-experience in object-oriented programming (Java), relational
-database programming (SQL) and vectorized languages (R, Matlab,
+experience in object-oriented programming (Java), writing relational
+database queries (SQL) and vectorized languages (R, Matlab,
 Octave).
 
 I've since completed the Coursera Stanford Machine Learning
